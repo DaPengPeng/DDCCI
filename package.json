@@ -1,0 +1,9 @@
+{
+  "name": "DDCCI",
+  "version": "1.0.0",
+  "description": "display control",
+  "main": "index.js",
+  "repository": "https://github.com/DaPengPeng/DDCCI",
+  "author": "Linty",
+  "license": "MIT"
+}
