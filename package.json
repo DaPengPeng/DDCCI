@@ -1,9 +1,32 @@
 {
-  "name": "DDCCI",
-  "version": "1.0.0",
+  "name": "linty-ddcci",
+  "version": "1.0.4",
   "description": "display control",
   "main": "index.js",
   "repository": "https://github.com/DaPengPeng/DDCCI",
-  "author": "Linty",
-  "license": "MIT"
+  "author": "linty",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "keywords": [
+    "app",
+    "apple",
+    "brightness",
+    "cli",
+    "mac",
+    "osx",
+    "screen"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "dependencies": {
+    "in-range": "^1.0.0",
+    "json-promise": "^1.1.8",
+    "pify": "^2.2.0",
+    "pinkie-promise": "^1.0.0"
+  }
 }
