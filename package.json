@@ -24,6 +24,7 @@
     "xo": "*"
   },
   "dependencies": {
+    "@hensm/ddcci": "^0.1.0",
     "in-range": "^1.0.0",
     "json-promise": "^1.1.8",
     "pify": "^2.2.0",
