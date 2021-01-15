@@ -1,6 +1,6 @@
 {
   "name": "linty-ddcci",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "display control",
   "main": "index.js",
   "repository": "https://github.com/DaPengPeng/DDCCI",
