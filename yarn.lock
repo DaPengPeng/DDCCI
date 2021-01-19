@@ -2299,10 +2299,10 @@ hash.js@^1.0.0, hash.js@^1.0.3:
     inherits "^2.0.3"
     minimalistic-assert "^1.0.1"
 
-hensm-ddcci@^0.1.3:
-  version "0.1.3"
-  resolved "https://registry.npmjs.org/hensm-ddcci/-/hensm-ddcci-0.1.3.tgz#ab64da33f402c66bda6e12d44f340cd88ccec6da"
-  integrity sha512-Vww7LK1gpy5Q0fsI4w2F7ObaiyXKjEgTdbsLaiLop2BnXI4m0lnS9OhNv5q32ph1iTieqGXGcDjh6yn8jEGZXw==
+hensm-ddcci@^0.1.5:
+  version "0.1.5"
+  resolved "https://registry.npmjs.org/hensm-ddcci/-/hensm-ddcci-0.1.5.tgz#022a852734e1b88ae89c3d921275955ffe265f56"
+  integrity sha512-NpSsF1/sog5+hv03HwLE266f3X6RRedT0h3AQbNb3DSKNJb6Q9CpWjoY3jvpnRLim0GYRtjkzYX45IOPjLXiew==
   dependencies:
     bindings "^1.5.0"
     node-addon-api "^2.0.0"
