@@ -1,6 +1,6 @@
 {
   "name": "linty-ddcci",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "display control",
   "main": "index.js",
   "repository": "https://github.com/DaPengPeng/DDCCI",
@@ -22,7 +22,6 @@
   ],
   "devDependencies": {
     "ava": "*",
-    "electron-is-dev": "^1.2.0",
     "xo": "*"
   },
   "dependencies": {
