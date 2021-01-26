@@ -1385,6 +1385,11 @@ duplexer3@^0.1.4:
   resolved "https://registry.npm.taobao.org/duplexer3/download/duplexer3-0.1.4.tgz#ee01dd1cac0ed3cbc7fdbea37dc0a8f1ce002ce2"
   integrity sha1-7gHdHKwO08vH/b6jfcCo8c4ALOI=
 
+electron-is-dev@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/electron-is-dev/-/electron-is-dev-1.2.0.tgz#2e5cea0a1b3ccf1c86f577cee77363ef55deb05e"
+  integrity sha512-R1oD5gMBPS7PVU8gJwH6CtT0e6VSoD0+SzSnYpNm+dBkcijgA+K7VAMHDfnRq/lkKPZArpzplTW6jfiMYosdzw==
+
 elliptic@^6.5.3:
   version "6.5.3"
   resolved "https://registry.npm.taobao.org/elliptic/download/elliptic-6.5.3.tgz#cb59eb2efdaf73a0bd78ccd7015a62ad6e0f93d6"
@@ -2299,10 +2304,10 @@ hash.js@^1.0.0, hash.js@^1.0.3:
     inherits "^2.0.3"
     minimalistic-assert "^1.0.1"
 
-hensm-ddcci@^0.1.5:
-  version "0.1.5"
-  resolved "https://registry.npmjs.org/hensm-ddcci/-/hensm-ddcci-0.1.5.tgz#022a852734e1b88ae89c3d921275955ffe265f56"
-  integrity sha512-NpSsF1/sog5+hv03HwLE266f3X6RRedT0h3AQbNb3DSKNJb6Q9CpWjoY3jvpnRLim0GYRtjkzYX45IOPjLXiew==
+hensm-ddcci@^0.1.7:
+  version "0.1.7"
+  resolved "https://registry.npmjs.org/hensm-ddcci/-/hensm-ddcci-0.1.7.tgz#a1fac8d2e6e578b62236d5758d9884d9cee1c145"
+  integrity sha512-9u4fG4xyZ6WwhDEbSby3Q/587NwqhVMOkDbZBWy0RJBWOg6UHvcXn16yCQ1UAMedgKf9+veyBGRfVCSQi0Vb9w==
   dependencies:
     bindings "^1.5.0"
     node-addon-api "^2.0.0"
@@ -3866,6 +3871,11 @@ quick-lru@^4.0.1:
   resolved "https://registry.npm.taobao.org/quick-lru/download/quick-lru-4.0.1.tgz#5b8878f113a58217848c6482026c73e1ba57727f"
   integrity sha1-W4h48ROlgheEjGSCAmxz4bpXcn8=
 
+rage-edit@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/rage-edit/-/rage-edit-1.2.0.tgz#991860a60fef934d8a6d0f057e55786b02f94a2b"
+  integrity sha512-0RspBRc2s6We4g7hRCvT5mu7YPEnfjvQK8Tt354a2uUNJCMC7MKLvo/1mLvHUCQ/zbP6siQyp5VRZN7UCpMFZg==
+
 randombytes@^2.0.0, randombytes@^2.0.1, randombytes@^2.0.5:
   version "2.1.0"
   resolved "https://registry.npm.taobao.org/randombytes/download/randombytes-2.1.0.tgz#df6f84372f0270dc65cdf6291349ab7a473d4f2a"
@@ -4824,6 +4834,11 @@ widest-line@^3.1.0:
   integrity sha1-gpIzO79my0X/DeFgOxNreuFJbso=
   dependencies:
     string-width "^4.0.0"
+
+wmi-client@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.npmjs.org/wmi-client/-/wmi-client-0.5.0.tgz#6b4c6404511bfd6a1aee0f979feb41d876c068b7"
+  integrity sha512-QlbQn5n4MONYTMlsm0iABvSGKe7fE/vs76dwuZDBo5d3GiqyzJ1nvWAKk6MQIhhfUg2C8wzVW8GvraFtvzh1cg==
 
 word-wrap@^1.2.3:
   version "1.2.3"
