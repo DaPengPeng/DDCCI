@@ -1,6 +1,6 @@
 {
   "name": "linty-ddcci",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "display control",
   "main": "index.js",
   "repository": "https://github.com/DaPengPeng/DDCCI",
@@ -31,6 +31,6 @@
     "json-promise": "^1.1.8",
     "pify": "^2.2.0",
     "pinkie-promise": "^1.0.0",
-    "wmi-client": "^0.5.0"
+    "rage-edit": "^1.2.0"
   }
 }
